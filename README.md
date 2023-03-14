@@ -33,7 +33,7 @@ height="60"/> </a6
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60"/> </a> 
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="60"/> </a>
 
-<a href="[https://powerbi.microsoft.com/en-au/](https://devdocs.io/javascript/)" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/91748011/224944954-3204a75c-dfea-43b8-98b2-e208afb19a69.png)
+<a href="[https://powerbi.microsoft.com/en-au/](https://devdocs.io/javascript/)" target="_blank"> <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667
 " alt="Javascript" width="60" height="60"/> </a> 
 
 
