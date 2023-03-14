@@ -29,10 +29,17 @@ height="60"/> </a6
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="60" height="60"/> </a>
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60"/> </a> 
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="60"/> </a>
-<a href="[https://powerbi.microsoft.com/en-au/](https://devdocs.io/javascript/)" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript" width="60" height="60"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript" width="60" height="60"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript" width="60" height="60"/> </a> 
+<a href="https://soliditylang.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="Solidity" width="60" height="60"/> </a> 
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="Rust" width="60" height="60"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="60" height="60"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="60" height="60"/> </a> 
+<a href="https://go.dev/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="GO" width="60" height="60"/> </a> 
+
 
 
   
