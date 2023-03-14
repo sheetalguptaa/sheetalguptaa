@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Sheetal Gupta</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Technical Trainer for Blockchain Technology at Jetking Infotrain Limited.</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, NLP, Deep Learning, Computer Vision**
+- 🌱 I’m currently learning **Blockchain and MetaVerse**
 
-- 💬 Ask me about **Python, ML, NLP**
+- 💬 Ask me about **Blockchain**
 
 - 📫 How to reach me **sheetalgupta72951@gmail.com**
 
