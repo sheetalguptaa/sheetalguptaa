@@ -34,8 +34,6 @@ height="60"/> </a6
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="60"/> </a>
 
 <a href="[https://powerbi.microsoft.com/en-au/](https://devdocs.io/javascript/)" target="_blank"> <img src="https://icons8.com/icon/106036/javascript-logo" alt="Javascript" width="60" height="60"/> </a> 
-<a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60"/> </a> 
-<a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60"/> </a> 
 
 
   
