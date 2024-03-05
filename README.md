@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sheetal Gupta</h1>
-<h3 align="center">A Technical Trainer for Blockchain Technology at Jetking Infotrain Limited.</h3>
+<h3 align="center">A Technical Trainer for Blockchain Technology & Data Science at Jetking Infotrain Limited.</h3>
 
 
 - 🌱 I’m currently learning **Blockchain and MetaVerse**
