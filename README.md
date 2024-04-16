@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/sheetalguptaa" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-github-34-225988.png?f=webp&w=256" alt="sheetalguptaa" height="30" width="40" /></a>
+<a href="https://github.com/sheetalguptaa" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/D_Social_Icon_Set/128/githubpx.png" alt="sheetalguptaa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sheetal-gupta-a26715216/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/linkedin-circled.png" alt="sheetal86" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/sheetalgupta7291" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRkmGD5n7ibpc23x8Zilmp3CaFiG_lNMETzgBRFH5J0w&s" alt="sheetal86" height="30" width="30" /></a>
 </p>
