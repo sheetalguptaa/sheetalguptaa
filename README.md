@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain and MetaVerse**
 
-- 💬 Ask me about **Data Science and Blockchain**
+- 💬 Ask me about **Data Science , Data Analytics and Blockchain**
 
 - 📫 How to reach me **sheetalgupta72951@gmail.com**
 
